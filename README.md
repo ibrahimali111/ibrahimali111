@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="right">
+  <em>💡 100% original ideas &nbsp;•&nbsp; 🤖 100% vibe coding &nbsp;•&nbsp; 🚫 0% nudes</em>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ibrahimali111/fair-hearts/main/assets/vibe-coded-badge.svg" height="30" alt="Vibe Coded" />
+</div>
 
-<!--
-**ibrahimali111/ibrahimali111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ibrahim Ali 🚀
 
-Here are some ideas to get you started:
+> **100% original ideas • 100% vibe coding • 0% nudes**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software developer & vibe coding enthusiast. Everything here started as an original idea and was vibe-coded into reality with AI.
+
+🎮 **Featured Game:** [♥ Play Fair Hearts Online Free (Zero Bias AI)](https://ibrahimali111.github.io/fair-hearts/) — Instant in-browser card game, no download or setup!
